@@ -28,3 +28,10 @@ Very interested in Machine Learning, Data Science, IoT and Robotics as well.
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a> <a href="https://www.mongodb.com/es" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongo" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
 </datails>
 <br />
+
+<details>
+	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats 📊:</b></summary>
+	<br/>
+	<img src="https://jf-gh-stats.vercel.app/api?username=melandres8&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" alt="GitHub Stats" align="top"/>
+	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=melandres8&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" alt="GitHub Top Languages" align="top"/>
+</details>
