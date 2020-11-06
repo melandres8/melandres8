@@ -1,4 +1,4 @@
-### Namaste World! 👋
+### Namasté World! 👋
 
 Software Developer ~~Back-end~~, right now working with Golang and Vuejs. I'm based in Cali, Colombia.
 Podcaster at [Perreo&Code](https://twitter.com/perreoandcode) with 4 friends and collegues where we talk about the IT area and stuff like that.
