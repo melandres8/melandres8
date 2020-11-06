@@ -16,6 +16,10 @@ Very interested in Machine Learning, Data Science, IoT and Robotics as well.
 - [Cómo ser una buena presa para un caza talentos.](https://anchor.fm/perreoandcode/episodes/Episodio-05---Como-ser-una-buena-presa-para-un-caza-talento-em1dn7)
 <!-- EPISODES:END -->
 
+### How to reach me 🌎:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melandres8/)](https://www.linkedin.com/in/melandres8/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/melandres8)](https://twitter.com/melandres8) ![](https://visitor-badge.glitch.me/badge?page_id=melandres8.melandres8)
+
 <details>
 <summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Languages and Tools 🛠:</b></summary>
 <br/>
@@ -24,7 +28,3 @@ Very interested in Machine Learning, Data Science, IoT and Robotics as well.
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 </datails>
 <br />
-
-### How to reach me 🌎:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melandres8/)](https://www.linkedin.com/in/melandres8/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/melandres8)](https://twitter.com/melandres8) ![](https://visitor-badge.glitch.me/badge?page_id=melandres8.melandres8)
