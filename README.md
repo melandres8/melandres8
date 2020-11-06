@@ -1,12 +1,20 @@
 ### Namaste World! 👋
 
 Software Developer ~~Back-end~~, right now working with Golang and Vuejs. I'm based in Cali, Colombia.
-Podcaster at [Perreo&Code](https://anchor.fm/perreoandcode/episodes/Episodio-05---Como-ser-una-buena-presa-para-un-caza-talento-em1dn7/a-a3oir6h)
+Podcaster at [Perreo&Code](https://twitter.com/perreoandcode) with 4 friends and collegues where we talk about the IT area and stuff like that.
 
 ### What I'm focusing on 👨🏾‍💻:
 
 Currently improving my Computer Science skills using Python and Golang.
 Very interested in Machine Learning, Data Science, IoT and Robotics as well.
+
+### Most recent episodes on [Perreo&Code](https://anchor.fm/perreoandcode) 🔊 :
+
+<!-- EPISODES:START -->
+- [Por qué deberías leer código.](https://anchor.fm/perreoandcode/episodes/Episodio-03---Porqu-deberas-leer-cdigo-ekagmt)
+- [Comunidades, Networking y Empanadas.](https://anchor.fm/perreoandcode/episodes/Episodio-04---Comunidades--Networking-y-empanadas-ektn05)
+- [Cómo ser una buena presa para un caza talentos.](https://anchor.fm/perreoandcode/episodes/Episodio-05---Como-ser-una-buena-presa-para-un-caza-talento-em1dn7)
+<!-- EPISODES:END -->
 
 ### How to reach me 🌎:
 
